@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple. 
 add no-ff merge
 I'm working on something and then the bug comes.......
+bug fixes, finished my dev job.
